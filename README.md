@@ -58,11 +58,11 @@ Example 1
 
 	tokens:		
 
-![image](https://github.com/techarenz/CS.12.01-Tutorial.1.2.8/assets/57818506/5947ec7e-69d3-4c08-acc1-437ab45c0262)
+<img width="387" alt="image" src="https://github.com/techarenz/CS.12.01-Tutorial.1.2.8/assets/57818506/04fdaaa3-be4e-445c-b8b3-3415378652f1">
 
 ArrayList of delimiters
 
-![image](https://github.com/techarenz/CS.12.01-Tutorial.1.2.8/assets/57818506/a5d01069-d837-4503-842c-8137d1c886c1)
+<img width="205" alt="image" src="https://github.com/techarenz/CS.12.01-Tutorial.1.2.8/assets/57818506/c4fcf8a3-0006-454a-a591-c8597c4b125e">
 
 Example 2
 
@@ -71,11 +71,11 @@ Example 2
 
 	tokens:
 
-![image](https://github.com/techarenz/CS.12.01-Tutorial.1.2.8/assets/57818506/62c5f6c0-d82c-4de6-b910-dc213ef39d84)
+<img width="478" alt="image" src="https://github.com/techarenz/CS.12.01-Tutorial.1.2.8/assets/57818506/ce2a7764-7477-4787-be41-9a38470c8fcb">
 
 ArrayList of delimiters
 
-![image](https://github.com/techarenz/CS.12.01-Tutorial.1.2.8/assets/57818506/82760609-db58-44e2-b20e-9a7666caee71)
+<img width="304" alt="image" src="https://github.com/techarenz/CS.12.01-Tutorial.1.2.8/assets/57818506/6efe786d-2b6b-4c5e-8705-d4512b2844ec">
 
 Complete the method getDelimitersList.
 
